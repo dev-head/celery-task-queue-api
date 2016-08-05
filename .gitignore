@@ -1,0 +1,6 @@
+.idea/
+.DS_Store
+*.sublime-*
+*.pyc
+*.pid
+*ide-plugin.xml
